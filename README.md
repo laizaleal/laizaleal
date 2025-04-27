@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="C:\Users\Michela\Pictures\download-removebg-preview.png" alt="Duck beign ProDucktive" />
+<img align="right" height="150" src="./images/download-removebg-preview.png" alt="Duck being ProDucktive" />
 
 ###
 
