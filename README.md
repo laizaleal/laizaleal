@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="300" src="imagens/download-removebg-preview.png" alt="Duck being ProDucktive" />
+<img align="right" height="250" src="imagens/download-removebg-preview.png" alt="Duck being ProDucktive" />
 
 ###
 
