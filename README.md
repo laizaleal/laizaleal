@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[./images/download-removebg-preview.png](https://imgur.com/a/pUBE80D)" alt="Duck being ProDucktive" />
+<img align="right" height="150" src="https://imgur.com/a/PASRjJ7" alt="Duck being ProDucktive" />
 
 ###
 
