@@ -9,7 +9,7 @@
 
 <br>
 
-<img align="right" height="250" src="imagens/download-removebg-preview.png" alt="Duck being ProDucktive" style="margin-top: 50px;" />
+<img align="right" height="250" src="imagens/download-removebg-preview.png" alt="Duck being ProDucktive" style="margin-top: 80px;" />
 
 ###
 <h3 align="left">Linguagens e Ferramentas</h3>
