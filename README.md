@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Laiza and I'm a computer science student and developer, from Brazil</h2>
+<h2 align="left">Hi! My name is Laiza and I'm a computer science student and UI/UX Designer, from Brazil</h2>
 
 ###
 
